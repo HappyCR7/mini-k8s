@@ -1,0 +1,6 @@
+API Server listening on :8080
+[API Server] Deleted pod: default/nginx
+[API Server] Deleted pod: default/redis
+[API Server] Created pod: default/nginx
+[API Server] Created pod: default/redis
+[API Server] Deleted pod: default/nginx
