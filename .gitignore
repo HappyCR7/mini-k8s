@@ -1,0 +1,29 @@
+# 编译产物
+/apiserver
+/apiserver.exe
+/apiserver-linux
+/kubelet
+/kubelet.exe
+/kubelet-linux
+/kubectl
+/kubectl.exe
+/kubectl-linux
+/bin/
+
+# 运行时数据
+*.db
+*.log
+
+# Go 工具链
+vendor/
+*.test
+*.out
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
